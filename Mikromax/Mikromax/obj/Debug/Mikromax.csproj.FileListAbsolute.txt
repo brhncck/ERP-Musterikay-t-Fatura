@@ -1,0 +1,12 @@
+C:\Users\Burhan\source\repos\Mikromax\Mikromax\bin\Debug\Mikromax.exe.config
+C:\Users\Burhan\source\repos\Mikromax\Mikromax\bin\Debug\Mikromax.exe
+C:\Users\Burhan\source\repos\Mikromax\Mikromax\bin\Debug\Mikromax.pdb
+C:\Users\Burhan\source\repos\Mikromax\Mikromax\obj\Debug\Mikromax.csprojAssemblyReference.cache
+C:\Users\Burhan\source\repos\Mikromax\Mikromax\obj\Debug\Mikromax.Properties.Resources.resources
+C:\Users\Burhan\source\repos\Mikromax\Mikromax\obj\Debug\Mikromax.csproj.GenerateResource.cache
+C:\Users\Burhan\source\repos\Mikromax\Mikromax\obj\Debug\Mikromax.csproj.CoreCompileInputs.cache
+C:\Users\Burhan\source\repos\Mikromax\Mikromax\obj\Debug\Mikromax.exe
+C:\Users\Burhan\source\repos\Mikromax\Mikromax\obj\Debug\Mikromax.pdb
+C:\Users\Burhan\source\repos\Mikromax\Mikromax\obj\Debug\Mikromax.Cari.resources
+C:\Users\Burhan\source\repos\Mikromax\Mikromax\obj\Debug\Mikromax.FaturaEvrak.resources
+C:\Users\Burhan\source\repos\Mikromax\Mikromax\obj\Debug\Mikromax.Stok.resources
